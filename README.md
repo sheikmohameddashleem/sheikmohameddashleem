@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sheik mohamed dashleem</h1>
-# INTRODUCTION
 
+## INTRODUCTION
 Hello, my name is Sheik Mohamed Dashleem. I am a passionate and dedicated Java backend developer from Tamil Nadu. I recently completed my Bachelor's degree in Engineering and I am eager to kick-start my career in the field.
 
 ## Skills
