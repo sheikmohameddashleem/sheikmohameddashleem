@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm sheik mohamed dashleem</h1>
+# Sheik Mohamed Dashleem
+
+Hello, my name is Sheik Mohamed Dashleem. I am a passionate and dedicated Java backend developer from Tamil Nadu. I recently completed my Bachelor's degree in Engineering and I am eager to kick-start my career in the field.
+
+## Skills
+- Java
+- Spring Boot
+- Core Java
+- Hibernate
+- MySQL
+
+## Projects
+1. **Customer Relationship Management System**: Developed a robust CRM system that enhanced customer interactions, managed leads, and improved overall productivity.
+
+2. **Batch Monitoring System**: Implemented a solution for monitoring and managing batch processes, ensuring smooth operations.
+
+## Job Search
+I am actively seeking job opportunities that allow me to apply my skills and contribute to meaningful projects. I am motivated to learn and grow as a professional, and I am excited to collaborate with talented teams in innovative and challenging environments.
+
+Thank you for considering my introduction. I look forward to showcasing my abilities and discussing potential opportunities with you.
+
 <h3 align="center">A passionate Backend developer from India</h3>
-![Header](./your-header-image-name.png)
+
 - 🔭 I’m currently working on [Customer Relationship Management](https://github.com/sheikmohameddashleem/jagged-voice-299)
 
 - 🌱 I’m currently learning **Spring**
