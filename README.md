@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sheik mohamed dashleem</h1>
-# Sheik Mohamed Dashleem
+# INTRODUCTION
 
 Hello, my name is Sheik Mohamed Dashleem. I am a passionate and dedicated Java backend developer from Tamil Nadu. I recently completed my Bachelor's degree in Engineering and I am eager to kick-start my career in the field.
 
@@ -20,15 +20,7 @@ I am actively seeking job opportunities that allow me to apply my skills and con
 
 Thank you for considering my introduction. I look forward to showcasing my abilities and discussing potential opportunities with you.
 
-<h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [Customer Relationship Management](https://github.com/sheikmohameddashleem/jagged-voice-299)
-
-- 🌱 I’m currently learning **Spring**
-
-- 💬 Ask me about **Core Java , Hibernate , JPA, Mysql**
-
-- 📫 How to reach me **sheikdashleem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
